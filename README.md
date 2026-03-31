@@ -25,11 +25,14 @@ I am a passionate Backend Developer dedicated to building robust, scalable, and 
 
 ---
 
-### 📈 GitHub Stats
+### 📈 GitHub Activities
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=HappyCoder77&show_icons=true&theme=radical&hide_border=true" />
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HappyCoder77&layout=compact&theme=radical&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=HappyCoder77&show_icons=true&theme=dark&hide_border=true" alt="Saul's GitHub stats" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=HappyCoder77&theme=dark&hide_border=true" alt="Saul's streak" />
 </p>
 
 ---
